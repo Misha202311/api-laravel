@@ -10,3 +10,5 @@ php artisan db:seed --class=TaskSeeder
 php artisan passport:install
 php artisan l5-swagger:generate
 php artisan serve
+///////////////////////////////
+Таблицу ролей создавать не стал, сделал в упрoщенном варианте поле role в таблице Users
