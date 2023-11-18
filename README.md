@@ -1,6 +1,7 @@
 Laravel Version  9.52.16
 PHP Version	8.1.9
 //////////////////////////
+Created .env
 Connect Database
 php artisan migrate
 php artisan db:seed --class=DatabaseSeeder
